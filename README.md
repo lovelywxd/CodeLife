@@ -1,2 +1,2 @@
 # CodeLife
-Richard's code life. Coding on the way.
+Richard's codelife. Coding on the way.
